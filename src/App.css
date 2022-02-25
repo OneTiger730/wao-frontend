@@ -1,0 +1,5429 @@
+/* -------------------inventory page style start------------- */
+.main {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 150px;
+}
+.mt {
+  margin-top: 300px;
+}
+.back-1 {
+  background-image: url('/public/assets/inventory/cryptowao.png');
+  width: 908px;
+  height: 593px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.back-2-1 {
+  background-image: url('/public/assets/inventory/inventory.png');
+  width: 503px;
+  height: 402px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 50px;
+}
+.back-2-2 {
+  background-image: url('/public/assets/inventory/aleman.png');
+  width: 292px;
+  height: 393px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 0 20px;
+  margin-top: 18px;
+}
+.back-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 37px;
+  height: 23px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -60px;
+  margin-left: -117px;
+}
+.back-2-4 {
+  background-image: url('/public/assets/inventory/coin.png');
+  width: 30px;
+  height: 31px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -64px;
+  margin-left: 5px;
+}
+.back-2-5 {
+  background-image: url('/public/assets/inventory/foot.png');
+  width: 58px;
+  height: 16px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -57px;
+  margin-left: 0px;
+}
+.back-2-6 {
+  background-image: url('/public/assets/inventory/cross.png');
+  width: 38px;
+  height: 38px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -863px;
+  cursor: pointer;
+}
+.back-3-1 {
+  background-image: url('/public/assets/inventory/left.png');
+  width: 27px;
+  height: 28px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  cursor: pointer;
+}
+.back-3-2 {
+  background-image: url('/public/assets/inventory/pastor.png');
+  width: 225px;
+  height: 275px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+}
+.back-3-3 {
+  background-image: url('/public/assets/inventory/pitbull.png');
+  width: 184px;
+  height: 275px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+}
+.back-3-4 {
+  background-image: url('/public/assets/inventory/right.png');
+  width: 27px;
+  height: 28px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  cursor: pointer;
+}
+.list {
+  display: flex;
+  margin-top: 74px;
+  margin-left: 20px;
+}
+.doglist {
+  display: flex;
+}
+.content {
+  display: flex;
+  margin-top: 124px;
+}
+.disflex {
+  display: flex;
+}
+.back-4-1 {
+  background-image: url('/public/assets/inventory/dog1.png');
+  width: 144px;
+  height: 225px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 37px;
+  margin-right: 19px;
+}
+.back-4-2 {
+  background-image: url('/public/assets/inventory/dog2.png');
+  width: 144px;
+  height: 225px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 37px;
+  margin-right: 15px;
+}
+/* ----------------inventory page style end-------------------- */
+
+/* ---------------caseta recu page style start----------------- */
+.caback-2-1 {
+  background-image: url('/public/assets/caseta-recu/de.png');
+  width: 845px;
+  height: 422px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 32px;
+}
+.caback-2-6 {
+  background-image: url('/public/assets/inventory/cross.png');
+  width: 38px;
+  height: 38px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -870px;
+  cursor: pointer;
+}
+.caback-3-2 {
+  background-image: url('/public/assets/caseta-recu/border.png');
+  width: 172px;
+  height: 272px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.caback-3-3 {
+  background-image: url('/public/assets/caseta-recu/table.png');
+  width: 587px;
+  height: 272px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.caback-4-1 {
+  background-image: url('/public/assets/caseta-recu/vector2.png');
+  width: 170px;
+  height: 265px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 2px;
+  margin-right: 0px;
+}
+.caback-5-1 {
+  background-image: url('/public/assets/caseta-recu/ca-coin.png');
+  width: 129px;
+  height: 37px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 205px;
+  margin-right: 0px;
+}
+.caback-6-1 {
+  background-image: url('/public/assets/caseta-recu/wcoin.png');
+  width: 78px;
+  height: 17px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 11px;
+  margin-right: 19px;
+}
+/* ---------------caseta recu page style end----------------- */
+
+
+/* ---------------modos page style start----------------- */
+.back-mo {
+  background-image: url('/public/assets/modos/back.png');
+  width: 908px;
+  height: 593px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.moback-2-1 {
+  background-image: url('/public/assets/modos/key1.png');
+  width: 240px;
+  height: 289px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  margin-left: 36px;
+}
+.moback-2-2 {
+  background-image: url('/public/assets/modos/modo.png');
+  width: 240px;
+  height: 289px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 56px;
+}
+.moback-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 37px;
+  height: 23px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -60px;
+  margin-left: -83px;
+}
+.moback-2-4 {
+  background-image: url('/public/assets/inventory/coin.png');
+  width: 30px;
+  height: 31px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -64px;
+  margin-left: 5px;
+}
+.moback-2-5 {
+  background-image: url('/public/assets/inventory/foot.png');
+  width: 58px;
+  height: 16px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -57px;
+  margin-left: 0px;
+}
+.moback-2-6 {
+  background-image: url('/public/assets/modos/key2.png');
+  width: 240px;
+  height: 289px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  margin-left: 40px;
+}
+.moback-2-7 {
+  background-image: url('/public/assets/modos/frame.png');
+  width: 889px;
+  height: 35px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  margin-left: -890px;
+  margin-top: -69px;
+}
+.moback-2-8 {
+  background-image: url('/public/assets/modos/imgs.png');
+  width: 400px;
+  height: 80px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -421px;
+  margin-top: 331px;
+}
+/* ---------------modos page style end----------------- */
+/* -------------capsula embrio page style start------------- */
+.emback-2-1 {
+  background-image: url('/public/assets/capsula-emb/cap.png');
+  width: 840px;
+  height: 419px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 32px;
+  margin-top: -20px;
+}
+.emback-3-1 {
+  background-image: url('/public/assets/capsula-emb/bat-state.png');
+  width: 128px;
+  height: 41px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.emback-3-2 {
+  background-image: url('/public/assets/capsula-emb/radius-back.png');
+  width: 322px;
+  height: 300px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 70px;
+  margin-left: 0px;
+}
+.emback-4-1 {
+  background-image: url('/public/assets/capsula-emb/robot.png');
+  width: 322px;
+  height: 320px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: -26px;
+  margin-left: 2px;
+}
+.emback-3-3 {
+  background-image: url('/public/assets/capsula-emb/coin-state.png');
+  width: 128px;
+  height: 41px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.embtns {
+  margin-top: -36px;
+  margin-left: -20px;
+}
+.emback-2-6 {
+  background-image: url('/public/assets/inventory/cross.png');
+  width: 38px;
+  height: 38px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -867px;
+  margin-top: -20px;
+  cursor: pointer;
+}
+/* -------------capsula embrio page style end------------- */
+
+/* -------------recommpensas page style start------------- */
+
+.reback-2-1 {
+    background-image: url('/public/assets/recompensas/re-part.png');
+    width: 645px;
+    height: 462px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 133px;
+    margin-top: -27px;
+}
+.reback-3-1 {
+  background-image: url('/public/assets/recompensas/t-recom.png');
+  width: 187px;
+  height: 31px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 231px;
+  margin-top: 23px;
+}
+.reback-3-2 {
+  background-image: url('/public/assets/recompensas/rectang.png');
+  width: 214px;
+  height: 290px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 36px;
+  margin-left: 0px;
+}
+.reback-4-1 {
+  background-image: url('/public/assets/recompensas/re-wcoin.png');
+  width: 120px;
+  height: 22px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 25px;
+  margin-left: 53px;
+}
+.reback-4-2 {
+  background-image: url('/public/assets/recompensas/re-coin.png');
+  width: 170px;
+  height: 170px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 15px;
+  margin-left: 12px;
+}
+.reback-4-3 {
+  background-image: url('/public/assets/recompensas/re-3800.png');
+  width: 120px;
+  height: 22px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: -1px;
+  margin-left: 53px;
+}
+.reback-3-3 {
+  background-image: url('/public/assets/recompensas/re-button.png');
+  width: 165px;
+  height: 53px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 44px;
+  margin-left: 25px;
+  cursor: pointer;
+}
+.reback-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 37px;
+  height: 23px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -60px;
+  margin-left: -16px;
+}
+.reback-2-6 {
+  background-image: url('/public/assets/inventory/cross.png');
+  width: 38px;
+  height: 38px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -766px;
+  margin-top: -19px;
+  cursor: pointer;
+}
+/* -------------recommpensas page style end------------- */
+
+/* -------------personajes page style start------------- */
+.perback-1 {
+  background-image: url('/public/assets/personajes/perback.png');
+  width: 908px;
+  height: 593px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.perback-2-7 {
+  background-image: url('/public/assets/personajes/per-frame.png');
+  width: 887px;
+  height: 35px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+  margin-top: -69px;
+  margin-left: -64px;
+}
+/* -------------personajes page style end------------- */
+
+/* -------------mapa page style start------------- */
+.maback-2-1 {
+  background-image: url('/public/assets/mapa/mapa-main.png');
+  width: 888px;
+  height: 444px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -14px;
+  margin-left: 9px;
+}
+.maback-2-2 {
+  background-image: url('/public/assets/mapa/mapa-up.png');
+  width: 123px;
+  height: 39px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 420px;
+  margin-left: -502px;
+}
+.maback-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 37px;
+  height: 23px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -60px;
+  margin-left: 248px;
+}
+.maback-2-7 {
+  background-image: url('/public/assets/mapa/mapa-left.png');
+  width: 34px;
+  height: 34px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -875px;
+  margin-top: -64px;
+  cursor: pointer;
+}
+.maback-2-8 {
+  background-image: url('/public/assets/mapa/mapa-setting.png');
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 678px;
+  margin-top: -64px;
+  cursor: pointer;
+}
+/* -------------mapa page style end------------- */
+
+/* -------------dapp page style start------------- */
+.background-dapp {
+  background-image: url("/public/assets/dapp/dapp-background.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+}
+.back-dapp {
+  background-image: url('/public/assets/dapp/tele.png');
+  width: 998px;
+  height: 651px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.dapp-logo {
+  background-image: url('/public/assets/dapp/dapp-logo.png');
+  width: 333px;
+  height: 161px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: -126px;
+  /* margin-left: 66px; */
+}
+.dapp-con-btn {
+  background-image: url('/public/assets/dapp/dapp-con-btn.png');
+  width: 442px;
+  height: 61px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: -102px;
+  /* margin-left: 1463px; */
+  cursor: pointer;
+}
+.ido-dog1 {
+  background-image: url('/public/assets/dapp/dapp-dog1.png');
+  width: 601px;
+  height: 601px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  /* margin-top: 360px; */
+  /* margin-left: 1463px; */
+}
+.dapp-dog1 {
+  background-image: url('/public/assets/dapp/dapp-dog1.png');
+  width: 601px;
+  height: 601px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  /* margin-top: 360px; */
+  /* margin-left: 1463px; */
+}
+.ido-dog2 {
+  background-image: url('/public/assets/dapp/dapp-dog2.png');
+  width: 601px;
+  height: 601px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  /* margin-top: -614px; */
+  /* margin-left: 1395px; */
+}
+.dapp-dog2 {
+  background-image: url('/public/assets/dapp/dapp-dog2.png');
+  width: 601px;
+  height: 601px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 200px;
+  margin-left: -201px;
+}
+.dback-2-1 {
+  background-image: url('/public/assets/dapp/back.png');
+  width: 979px;
+  height: 579px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 8px;
+  margin-top: -62px;
+}
+.dback-2-2 {
+  background-image: url('/public/assets/dapp/t-nft.png');
+  /* width: 155px; */
+  /* height: 20px; */
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-left: -588px;
+  margin-top: 331px;
+  background-size: 120px;
+}
+/* .dback-2-3 {
+  background-image: url('/public/assets/dapp/t-15.png');
+  width: 113px;
+  height: 22px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -57px;
+  margin-top: 328px;
+} */
+.dback-2-4 {
+  background-image: url('/public/assets/dapp/usd-logo.png');
+  width: 26px;
+  height: 25px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -37px;
+  margin-top: 323px;
+}
+.dback-2-5 {
+  background-image: url('/public/assets/dapp/long-line.png');
+  width: 244px;
+  height: 4px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -225px;
+  margin-top: 360px;
+}
+.dback-2-6 {
+  background-image: url('/public/assets/dapp/t-open.png');
+  width: 155px;
+  height: 20px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -181px;
+  margin-top: 375px;
+}
+.dback-2-7 {
+  background-image: url('/public/assets/dapp/n1.png');
+  width: 40px;
+  height: 21px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -81px;
+  margin-top: 376px;
+}
+.dback-2-8 {
+  background-image: url('/public/assets/dapp/short-line.png');
+  width: 204px;
+  height: 4px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -157px;
+  margin-top: 408px;
+}.dback-2-9 {
+  background-image: url('/public/assets/dapp/up.png');
+  width: 11px;
+  height: 8px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -43px;
+  margin-top: 378px;
+  cursor: pointer;
+}
+.dback-2-10 {
+  background-image: url('/public/assets/dapp/down.png');
+  width: 11px;
+  height: 8px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -11px;
+  margin-top: 390px;
+  cursor: pointer;
+}
+.dback-2-11 {
+  background-image: url('/public/assets/dapp/open-btn.png');
+  width: 188px;
+  height: 46px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -157px;
+  margin-top: 430px;
+  cursor: pointer;
+}
+.dback-2-12 {
+  background-image: url('/public/assets/dapp/footers.png');
+  width: 505px;
+  height: 53px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -340px;
+  margin-top: 630px;
+  cursor: pointer;
+}
+.dback-2-13 {
+  background-image: url('/public/assets/dapp/dapp-footer.png');
+  width: 572px;
+  height: 27px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -540px;
+  margin-top: 695px;
+}
+.dback-3-1 {
+  background-image: url('/public/assets/dapp/dapp-robot.svg');
+  width: 264px;
+  height: 318px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 8px;
+  margin-top: 23px;
+}
+/* -------------dapp page style end------------- */
+
+/* -------------presale ido page style start------------- */
+.background-ido {
+  background-image: url("/public/assets/presale/presale-background.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+}
+.back-ido {
+  background-image: url('/public/assets/presale/token-modal.png');
+  width: 700px;
+  height: 530px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: inherit;
+}
+@media (min-width: 1860px) and (max-width: 1920px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: 680px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: -7px;
+    margin-left: -258px;
+    background-size: 997px;
+  }
+  .preback-2-1 {
+    background-image: url('/public/assets/presale/t-token.png');
+    width: 276px;
+    height: 70px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 205px;
+    margin-top: 58px;
+  }
+  .dback-2-1 {
+    background-image: url('/public/assets/dapp/back.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 8px;
+    margin-top: 61px;
+    background-size: 979px;
+  }
+  .preback-2-2 {
+    background-image: url('/public/assets/presale/tboard.png');
+    width: 165px;
+    height: 51px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 203px;
+    margin-top: -5px;
+  }
+  .dback-2-2 {
+    background-image: url('/public/assets/dapp/t-nft.png');
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 402px;
+    margin-top: -200px;
+  }
+  .dback-2-3 {
+  background-image: url('/public/assets/dapp/t-15.png');
+  width: 113px;
+  height: 22px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 498px;
+  margin-top: -22px;
+}
+.dback-2-4 {
+  background-image: url('/public/assets/dapp/usd-logo.png');
+  width: 26px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 578px;
+  margin-top: -24px;
+  display: flex;
+}
+.dback-2-5 {
+  background-image: url('/public/assets/dapp/long-line.png');
+  width: 244px;
+  height: 4px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 383px;
+  margin-top: 12px;
+  display: flex;
+}
+.dback-2-6 {
+  background-image: url('/public/assets/dapp/t-open.png');
+  width: 155px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 440px;
+  margin-top: 14px;
+  display: flex;
+}
+.dback-2-7 {
+  background-image: url('/public/assets/dapp/n1.png');
+  width: 40px;
+  height: 21px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 507px;
+  margin-top: -21px;
+  display: flex;
+}
+.dback-2-8 {
+  background-image: url('/public/assets/dapp/short-line.png');
+  width: 204px;
+  height: 4px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 407px;
+  margin-top: 11px;
+  display: flex;
+}
+.dback-2-9 {
+  background-image: url('/public/assets/dapp/up.png');
+  width: 11px;
+  height: 8px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -34px;
+  margin-left: 552px;
+  cursor: pointer;
+  display: flex;
+  cursor: pointer;
+}
+.dback-2-10 {
+  background-image: url('/public/assets/dapp/down.png');
+  width: 11px;
+  height: 8px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 3px;
+  margin-left: 552px;
+  cursor: pointer;
+  display: flex;
+  cursor: pointer;
+}
+.dback-2-11 {
+  background-image: url('/public/assets/dapp/open-btn.png');
+  width: 188px;
+  height: 46px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 420px;
+  margin-top: 37px;
+  cursor: pointer;
+  display: flex;
+}
+.dback-2-12 {
+  background-image: url('/public/assets/dapp/footers.png');
+  width: 505px;
+  height: 53px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 278px;
+  margin-top: 100px;
+  cursor: pointer;
+  display: flex;
+}
+.dback-2-13 {
+  background-image: url('/public/assets/dapp/dapp-footer.png');
+  width: 572px;
+  height: 27px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 245px;
+  margin-top: 30px;
+  display: flex;
+}
+}
+@media (min-width: 1750px) and (max-width: 1860px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 650px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: -2px;
+    margin-left: -78px;
+    background-size: 980px;
+  }
+  .preback-2-1 {
+    background-image: url('/public/assets/presale/t-token.png');
+    width: 276px;
+    height: 70px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 8px;
+    margin-top: 61px;
+  }
+  .dback-2-1 {
+    background-image: url('/public/assets/dapp/back.png');
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-left: 8px;
+    margin-top: 61px;
+    background-size: 962px;
+  }
+  .preback-2-2 {
+    background-image: url('/public/assets/presale/tboard.png');
+    width: 165px;
+    height: 51px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 192px;
+    margin-top: -5px;
+  }
+  .dback-2-2 {
+    background-image: url('/public/assets/dapp/t-nft.png');
+    width: 155px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    margin-left: 404px;
+    margin-top: -203px;
+  }
+  .dback-2-3 {
+    background-image: url('/public/assets/dapp/t-15.png');
+    width: 113px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 498px;
+    margin-top: -22px;
+  }
+  .dback-2-4 {
+    background-image: url('/public/assets/dapp/usd-logo.png');
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 578px;
+    margin-top: -24px;
+    display: flex;
+  }
+  .dback-2-5 {
+    background-image: url('/public/assets/dapp/long-line.png');
+    width: 244px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 383px;
+    margin-top: 12px;
+    display: flex;
+  }
+  .dback-2-6 {
+    background-image: url('/public/assets/dapp/t-open.png');
+    width: 155px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 440px;
+    margin-top: 14px;
+    display: flex;
+  }
+  .dback-2-7 {
+    background-image: url('/public/assets/dapp/n1.png');
+    width: 40px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 507px;
+    margin-top: -21px;
+    display: flex;
+  }
+  .dback-2-8 {
+    background-image: url('/public/assets/dapp/short-line.png');
+    width: 204px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 407px;
+    margin-top: 11px;
+    display: flex;
+  }
+  .dback-2-9 {
+    background-image: url('/public/assets/dapp/up.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -34px;
+    margin-left: 552px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-10 {
+    background-image: url('/public/assets/dapp/down.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 3px;
+    margin-left: 552px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-11 {
+    background-image: url('/public/assets/dapp/open-btn.png');
+    width: 188px;
+    height: 46px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 420px;
+    margin-top: 37px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-12 {
+    background-image: url('/public/assets/dapp/footers.png');
+    width: 505px;
+    height: 53px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 278px;
+    margin-top: 100px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-13 {
+    background-image: url('/public/assets/dapp/dapp-footer.png');
+    width: 572px;
+    height: 27px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 245px;
+    margin-top: 30px;
+    display: flex;
+  }
+  .dapp-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    margin-left: -122px;
+}
+}
+
+@media (min-width: 1600px) and (max-width: 1750px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 600px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    background-repeat: no-repeat;
+    margin-top: 11px;
+    margin-left: -99px;
+    background-size: 900px;
+  }
+  .preback-2-1 {
+    background-image: url('/public/assets/presale/t-token.png');
+    width: 276px;
+    height: 70px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 159px;
+    margin-top: 58px;
+  }
+  .dback-2-1 {
+    background-image: url('/public/assets/dapp/back.png');
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-left: 8px;
+    margin-top: 58px;
+    background-size: 880px;
+  }
+  .preback-2-2 {
+    background-image: url('/public/assets/presale/tboard.png');
+    width: 165px;
+    height: 51px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 192px;
+    margin-top: -5px;
+  }
+  .dback-2-2 {
+    background-image: url('/public/assets/dapp/t-nft.png');
+    width: 155px;
+    height: 20px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 359px;
+    margin-top: -225px;
+  }
+  .dback-2-3 {
+    background-image: url('/public/assets/dapp/t-15.png');
+    width: 113px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 457px;
+    margin-top: -22px;
+  }
+  .dback-2-4 {
+    background-image: url('/public/assets/dapp/usd-logo.png');
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 536px;
+    margin-top: -24px;
+    display: flex;
+  }
+  .dback-2-5 {
+    background-image: url('/public/assets/dapp/long-line.png');
+    width: 244px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 334px;
+    margin-top: 10px;
+    display: flex;
+  }
+  .dback-2-6 {
+    background-image: url('/public/assets/dapp/t-open.png');
+    width: 155px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 399px;
+    margin-top: 14px;
+    display: flex;
+  }
+  .dback-2-7 {
+    background-image: url('/public/assets/dapp/n1.png');
+    width: 40px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 468px;
+    margin-top: -21px;
+    display: flex;
+  }
+  .dback-2-8 {
+    background-image: url('/public/assets/dapp/short-line.png');
+    width: 204px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 355px;
+    margin-top: 11px;
+    display: flex;
+  }
+  .dback-2-9 {
+    background-image: url('/public/assets/dapp/up.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -34px;
+    margin-left: 512px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-10 {
+    background-image: url('/public/assets/dapp/down.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 3px;
+    margin-left: 512px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-11 {
+    background-image: url('/public/assets/dapp/open-btn.png');
+    width: 188px;
+    height: 46px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 364px;
+    margin-top: 28px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-12 {
+    background-image: url('/public/assets/dapp/footers.png');
+    width: 505px;
+    height: 53px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 213px;
+    margin-top: 100px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-13 {
+    background-image: url('/public/assets/dapp/dapp-footer.png');
+    width: 572px;
+    height: 27px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 177px;
+    margin-top: 30px;
+    display: flex;
+  }
+  .dback-3-1 {
+    background-image: url('/public/assets/dapp/dapp-robot.svg');
+    width: 264px;
+    height: 318px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: -84px;
+    margin-top: 23px;
+  }
+}
+
+@media (min-width: 1500px) and (max-width: 1600px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 550px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    background-repeat: no-repeat;
+    margin-top: -10px;
+    margin-left: -77px;
+    background-size: 800px;
+  }
+  .preback-2-1 {
+    background-image: url('/public/assets/presale/t-token.png');
+    width: 276px;
+    height: 70px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 140px;
+    margin-top: 58px;
+  }
+  .dback-2-1 {
+    background-image: url('/public/assets/dapp/back.png');
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-left: 8px;
+    margin-top: 49px;
+    background-size: 780px;
+  }
+  .preback-2-2 {
+    background-image: url('/public/assets/presale/tboard.png');
+    width: 165px;
+    height: 51px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 149px;
+    margin-top: -5px;
+  }
+  .dback-2-2 {
+    background-image: url('/public/assets/dapp/t-nft.png');
+    width: 155px;
+    height: 20px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 300px;
+    margin-top: -280px;
+  }
+  .dback-2-3 {
+    background-image: url('/public/assets/dapp/t-15.png');
+    width: 113px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 396px;
+    margin-top: -22px;
+  }
+  .dback-2-4 {
+    background-image: url('/public/assets/dapp/usd-logo.png');
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 478px;
+    margin-top: -24px;
+    display: flex;
+  }
+  .dback-2-5 {
+    background-image: url('/public/assets/dapp/long-line.png');
+    width: 244px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 278px;
+    margin-top: 12px;
+    display: flex;
+  }
+  .dback-2-6 {
+    background-image: url('/public/assets/dapp/t-open.png');
+    width: 155px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 332px;
+    margin-top: 14px;
+    display: flex;
+  }
+  .dback-2-7 {
+    background-image: url('/public/assets/dapp/n1.png');
+    width: 40px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 405px;
+    margin-top: -20px;
+    display: flex;
+  }
+  .dback-2-8 {
+    background-image: url('/public/assets/dapp/short-line.png');
+    width: 204px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 299px;
+    margin-top: 11px;
+    display: flex;
+  }
+  .dback-2-9 {
+    background-image: url('/public/assets/dapp/up.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -35px;
+    margin-left: 451px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-10 {
+    background-image: url('/public/assets/dapp/down.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 3px;
+    margin-left: 451px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-11 {
+    background-image: url('/public/assets/dapp/open-btn.png');
+    width: 188px;
+    height: 46px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 308px;
+    margin-top: 27px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-12 {
+    background-image: url('/public/assets/dapp/footers.png');
+    width: 505px;
+    height: 53px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 160px;
+    margin-top: 100px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-13 {
+    background-image: url('/public/assets/dapp/dapp-footer.png');
+    width: 572px;
+    height: 27px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 122px;
+    margin-top: 30px;
+    display: flex;
+  }
+  .dapp-con-btn {
+    background-image: url('/public/assets/dapp/dapp-con-btn.png');
+    width: 442px;
+    height: 61px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -82px;
+    /* margin-left: 1463px; */
+    cursor: pointer;
+  }
+  .dapp-logo {
+    background-image: url('/public/assets/dapp/dapp-logo.png');
+    width: 333px;
+    height: 161px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -111px;
+    /* margin-left: 66px; */
+  }
+  .dback-3-1 {
+    background-image: url('/public/assets/dapp/dapp-robot.svg');
+    width: 264px;
+    height: 318px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: -165px;
+    margin-top: 15px;
+    background-size: 226px;
+  }
+  .dapp-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    margin-left: -303px;
+  }
+}
+@media (min-width: 1400px) and (max-width: 1500px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 520px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    margin-left: -62px;
+    background-size: 820px;
+  }
+/* .dapp-dog2 {
+  background-image: url('/public/assets/dapp/dapp-dog2.png');
+  width: 601px;
+  height: 601px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-left: -180px;
+} */
+.preback-2-1 {
+  background-image: url('/public/assets/presale/t-token.png');
+  width: 276px;
+  height: 70px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 124px;
+  margin-top: 58px;
+}
+.dback-2-1 {
+  background-image: url('/public/assets/dapp/back.png');
+  width: 979px;
+  height: 579px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: 800px;
+  margin-left: 8px;
+  margin-top: 50px; 
+}
+.preback-2-2 {
+  background-image: url('/public/assets/presale/tboard.png');
+  width: 165px;
+  height: 51px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 149px;
+  margin-top: -5px;
+}
+.dback-2-2 {
+  background-image: url('/public/assets/dapp/t-nft.png');
+  width: 155px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 298px;
+  margin-top: -268px;
+}
+.dback-2-3 {
+  background-image: url('/public/assets/dapp/t-15.png');
+  width: 113px;
+  height: 22px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 396px;
+  margin-top: -22px;
+}
+.dback-2-4 {
+  background-image: url('/public/assets/dapp/usd-logo.png');
+  width: 26px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 478px;
+  margin-top: -24px;
+  display: flex;
+}
+.dback-2-5 {
+  background-image: url('/public/assets/dapp/long-line.png');
+  width: 244px;
+  height: 4px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 278px;
+  margin-top: 12px;
+  display: flex;
+}
+.dback-2-6 {
+  background-image: url('/public/assets/dapp/t-open.png');
+  width: 155px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 332px;
+  margin-top: 14px;
+  display: flex;
+}
+.dback-2-7 {
+  background-image: url('/public/assets/dapp/n1.png');
+  width: 40px;
+  height: 21px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 405px;
+  margin-top: -20px;
+  display: flex;
+}
+.dback-2-8 {
+  background-image: url('/public/assets/dapp/short-line.png');
+  width: 204px;
+  height: 4px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 299px;
+  margin-top: 11px;
+  display: flex;
+}
+.dback-2-9 {
+  background-image: url('/public/assets/dapp/up.png');
+  width: 11px;
+  height: 8px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -35px;
+  margin-left: 451px;
+  cursor: pointer;
+  display: flex;
+  cursor: pointer;
+}
+.dback-2-10 {
+  background-image: url('/public/assets/dapp/down.png');
+  width: 11px;
+  height: 8px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 3px;
+  margin-left: 451px;
+  cursor: pointer;
+  display: flex;
+  cursor: pointer;
+}
+.dback-2-11 {
+  background-image: url('/public/assets/dapp/open-btn.png');
+  width: 188px;
+  height: 46px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 308px;
+  margin-top: 27px;
+  cursor: pointer;
+  display: flex;
+}
+.dback-2-12 {
+  background-image: url('/public/assets/dapp/footers.png');
+  width: 505px;
+  height: 53px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 160px;
+  margin-top: 100px;
+  cursor: pointer;
+  display: flex;
+}
+.dback-2-13 {
+  background-image: url('/public/assets/dapp/dapp-footer.png');
+  width: 572px;
+  height: 27px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 122px;
+  margin-top: 30px;
+  display: flex;
+}
+.dapp-con-btn {
+  background-image: url('/public/assets/dapp/dapp-con-btn.png');
+  width: 442px;
+  height: 61px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: -82px;
+  /* margin-left: 1463px; */
+  cursor: pointer;
+}
+.dapp-logo {
+  background-image: url('/public/assets/dapp/dapp-logo.png');
+  width: 333px;
+  height: 161px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: -111px;
+  /* margin-left: 66px; */
+}
+.dback-3-1 {
+  background-image: url('/public/assets/dapp/dapp-robot.svg');
+  width: 264px;
+  height: 318px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -165px;
+  margin-top: 15px;
+  background-size: 226px;
+}
+.dapp-dog2 {
+  background-image: url('/public/assets/dapp/dapp-dog2.png');
+  width: 601px;
+  height: 601px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 200px;
+  margin-left: -249px;
+  background-size: 429px;
+}
+.dapp-dog1 {
+  background-image: url('/public/assets/dapp/dapp-dog1.png');
+  width: 601px;
+  height: 601px;
+  background-repeat: no-repeat;
+  margin-left: -32px;
+  background-size: 429px;
+}
+}
+@media (min-width: 1300px) and (max-width: 1400px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 520px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    margin-left: -62px;
+    background-size: 780px;
+  }
+.preback-2-1 {
+  background-image: url('/public/assets/presale/t-token.png');
+  width: 276px;
+  height: 70px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 124px;
+  margin-top: 58px;
+}
+.dback-2-1 {
+  background-image: url('/public/assets/dapp/back.png');
+  width: 979px;
+  height: 579px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: 760px;
+  margin-left: 10px;
+  margin-top: 50px; 
+}
+.preback-2-2 {
+  background-image: url('/public/assets/presale/tboard.png');
+  width: 165px;
+  height: 51px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 149px;
+  margin-top: -5px;
+}
+.dback-2-2 {
+  background-image: url('/public/assets/dapp/t-nft.png');
+  width: 155px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 298px;
+  margin-top: -268px;
+}
+  .dback-2-3 {
+    background-image: url('/public/assets/dapp/t-15.png');
+    width: 113px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 396px;
+    margin-top: -22px;
+  }
+  .dback-2-4 {
+    background-image: url('/public/assets/dapp/usd-logo.png');
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 478px;
+    margin-top: -24px;
+    display: flex;
+  }
+  .dback-2-5 {
+    background-image: url('/public/assets/dapp/long-line.png');
+    width: 244px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 278px;
+    margin-top: 12px;
+    display: flex;
+  }
+  .dback-2-6 {
+    background-image: url('/public/assets/dapp/t-open.png');
+    width: 155px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 332px;
+    margin-top: 14px;
+    display: flex;
+  }
+  .dback-2-7 {
+    background-image: url('/public/assets/dapp/n1.png');
+    width: 40px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 405px;
+    margin-top: -20px;
+    display: flex;
+  }
+  .dback-2-8 {
+    background-image: url('/public/assets/dapp/short-line.png');
+    width: 204px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 299px;
+    margin-top: 11px;
+    display: flex;
+  }
+  .dback-2-9 {
+    background-image: url('/public/assets/dapp/up.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -35px;
+    margin-left: 451px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-10 {
+    background-image: url('/public/assets/dapp/down.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 3px;
+    margin-left: 451px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-11 {
+    background-image: url('/public/assets/dapp/open-btn.png');
+    width: 188px;
+    height: 46px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 308px;
+    margin-top: 27px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-12 {
+    background-image: url('/public/assets/dapp/footers.png');
+    width: 505px;
+    height: 53px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 160px;
+    margin-top: 100px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-13 {
+    background-image: url('/public/assets/dapp/dapp-footer.png');
+    width: 572px;
+    height: 27px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 122px;
+    margin-top: 30px;
+    display: flex;
+  }
+  .dapp-con-btn {
+    background-image: url('/public/assets/dapp/dapp-con-btn.png');
+    width: 442px;
+    height: 61px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -82px;
+    /* margin-left: 1463px; */
+    cursor: pointer;
+  }
+  .dapp-logo {
+    background-image: url('/public/assets/dapp/dapp-logo.png');
+    width: 333px;
+    height: 161px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -111px;
+    /* margin-left: 66px; */
+  }
+  .dback-3-1 {
+    background-image: url('/public/assets/dapp/dapp-robot.svg');
+    width: 264px;
+    height: 318px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: -165px;
+    margin-top: 15px;
+    background-size: 226px;
+  }
+  .dapp-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    margin-left: -318px;
+    background-size: 429px;
+  }
+  .dapp-dog1 {
+    background-image: url('/public/assets/dapp/dapp-dog1.png');
+    width: 601px;
+    height: 601px;
+    background-repeat: no-repeat;
+    margin-left: -43px;
+    background-size: 429px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 520px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    margin-left: -42px;
+    background-size: 740px;
+  }
+.preback-2-1 {
+  background-image: url('/public/assets/presale/t-token.png');
+  width: 276px;
+  height: 70px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 124px;
+  margin-top: 58px;
+}
+.dback-2-1 {
+  background-image: url('/public/assets/dapp/back.png');
+  width: 979px;
+  height: 579px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: 720px;
+  margin-left: 9px;
+  margin-top: 47px; 
+}
+.preback-2-2 {
+  background-image: url('/public/assets/presale/tboard.png');
+  width: 165px;
+  height: 51px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 149px;
+  margin-top: -5px;
+}
+.dback-2-2 {
+  background-image: url('/public/assets/dapp/t-nft.png');
+  width: 155px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 286px;
+  margin-top: -319px;
+}
+  .dback-2-3 {
+    background-image: url('/public/assets/dapp/t-15.png');
+    width: 113px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 381px;
+    margin-top: -22px;
+  }
+  .dback-2-4 {
+    background-image: url('/public/assets/dapp/usd-logo.png');
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 460px;
+    margin-top: -24px;
+    display: flex;
+  }
+  .dback-2-5 {
+    background-image: url('/public/assets/dapp/long-line.png');
+    width: 244px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 263px;
+    margin-top: 12px;
+    display: flex;
+  }
+  .dback-2-6 {
+    background-image: url('/public/assets/dapp/t-open.png');
+    width: 155px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 314px;
+    margin-top: 14px;
+    display: flex;
+  }
+  .dback-2-7 {
+    background-image: url('/public/assets/dapp/n1.png');
+    width: 40px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 388px;
+    margin-top: -20px;
+    display: flex;
+  }
+  .dback-2-8 {
+    background-image: url('/public/assets/dapp/short-line.png');
+    width: 204px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 281px;
+    margin-top: 11px;
+    display: flex;
+  }
+  .dback-2-9 {
+    background-image: url('/public/assets/dapp/up.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -35px;
+    margin-left: 434px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-10 {
+    background-image: url('/public/assets/dapp/down.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 3px;
+    margin-left: 434px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-11 {
+    background-image: url('/public/assets/dapp/open-btn.png');
+    width: 188px;
+    height: 46px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 290px;
+    margin-top: 27px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-12 {
+    background-image: url('/public/assets/dapp/footers.png');
+    width: 505px;
+    height: 53px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 160px;
+    margin-top: 100px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-13 {
+    background-image: url('/public/assets/dapp/dapp-footer.png');
+    width: 572px;
+    height: 27px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 122px;
+    margin-top: 30px;
+    display: flex;
+  }
+  .dapp-con-btn {
+    background-image: url('/public/assets/dapp/dapp-con-btn.png');
+    width: 442px;
+    height: 61px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -82px;
+    /* margin-left: 1463px; */
+    cursor: pointer;
+  }
+  .dapp-logo {
+    background-image: url('/public/assets/dapp/dapp-logo.png');
+    width: 333px;
+    height: 161px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -111px;
+    /* margin-left: 66px; */
+  }
+  .dback-3-1 {
+    background-image: url('/public/assets/dapp/dapp-robot.svg');
+    width: 264px;
+    height: 318px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: -172px;
+    margin-top: 16px;
+    background-size: 195px;
+  }
+  .dapp-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    margin-left: -312px;
+    background-size: 350px;
+  }
+  .dapp-dog1 {
+    background-image: url('/public/assets/dapp/dapp-dog1.png');
+    width: 601px;
+    height: 601px;
+    background-repeat: no-repeat;
+    margin-left: -35px;
+    background-size: 350px;
+  }
+}
+@media (min-width: 1100px) and (max-width: 1200px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 520px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    margin-left: -55px;
+    background-size: 600px 483px;
+  }
+.preback-2-1 {
+  background-image: url('/public/assets/presale/t-token.png');
+  width: 276px;
+  height: 70px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 124px;
+  margin-top: 58px;
+}
+.dback-2-1 {
+  background-image: url('/public/assets/dapp/back.png');
+  width: 979px;
+  height: 579px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: 580px 426px;
+  margin-left: 9px;
+  margin-top: 47px; 
+}
+.preback-2-2 {
+  background-image: url('/public/assets/presale/tboard.png');
+  width: 165px;
+  height: 51px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 69px;
+  margin-top: -5px;
+}
+.dback-2-2 {
+  background-image: url('/public/assets/dapp/t-nft.png');
+  width: 155px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 206px;
+  margin-top: -319px;
+}
+  .dback-2-3 {
+    background-image: url('/public/assets/dapp/t-15.png');
+    width: 113px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 301px;
+    margin-top: -22px;
+  }
+  .dback-2-4 {
+    background-image: url('/public/assets/dapp/usd-logo.png');
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 380px;
+    margin-top: -24px;
+    display: flex;
+  }
+  .dback-2-5 {
+    background-image: url('/public/assets/dapp/long-line.png');
+    width: 244px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 183px;
+    margin-top: 12px;
+    display: flex;
+  }
+  .dback-2-6 {
+    background-image: url('/public/assets/dapp/t-open.png');
+    width: 155px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 234px;
+    margin-top: 14px;
+    display: flex;
+  }
+  .dback-2-7 {
+    background-image: url('/public/assets/dapp/n1.png');
+    width: 40px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 308px;
+    margin-top: -20px;
+    display: flex;
+  }
+  .dback-2-8 {
+    background-image: url('/public/assets/dapp/short-line.png');
+    width: 204px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 201px;
+    margin-top: 11px;
+    display: flex;
+  }
+  .dback-2-9 {
+    background-image: url('/public/assets/dapp/up.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -35px;
+    margin-left: 354px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-10 {
+    background-image: url('/public/assets/dapp/down.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 3px;
+    margin-left: 354px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-11 {
+    background-image: url('/public/assets/dapp/open-btn.png');
+    width: 188px;
+    height: 46px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 210px;
+    margin-top: 27px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-12 {
+    background-image: url('/public/assets/dapp/footers.png');
+    width: 505px;
+    height: 53px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 80px;
+    margin-top: 100px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-13 {
+    background-image: url('/public/assets/dapp/dapp-footer.png');
+    width: 572px;
+    height: 27px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 42px;
+    margin-top: 30px;
+    display: flex;
+  }
+  .dapp-con-btn {
+    background-image: url('/public/assets/dapp/dapp-con-btn.png');
+    width: 442px;
+    height: 61px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -82px;
+    /* margin-left: 1463px; */
+    cursor: pointer;
+  }
+  .dapp-logo {
+    background-image: url('/public/assets/dapp/dapp-logo.png');
+    width: 333px;
+    height: 161px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -111px;
+    /* margin-left: 66px; */
+  }
+  .dback-3-1 {
+    background-image: url('/public/assets/dapp/dapp-robot.svg');
+    width: 264px;
+    height: 318px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: -308px;
+    margin-top: 16px;
+    background-size: 185px;
+  }
+  .dapp-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    margin-left: -452px;
+    background-size: 350px;
+  }
+  .dapp-dog1 {
+    background-image: url('/public/assets/dapp/dapp-dog1.png');
+    width: 601px;
+    height: 601px;
+    background-repeat: no-repeat;
+    margin-left: -22px;
+    background-size: 350px;
+  }
+}
+@media (min-width: 1000px) and (max-width: 1100px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 520px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    margin-left: -55px;
+    background-size: 600px 483px;
+  }
+.preback-2-1 {
+  background-image: url('/public/assets/presale/t-token.png');
+  width: 276px;
+  height: 70px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 124px;
+  margin-top: 58px;
+}
+.dback-2-1 {
+  background-image: url('/public/assets/dapp/back.png');
+  width: 979px;
+  height: 579px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  background-size: 580px 426px;
+  margin-left: 9px;
+  margin-top: 47px; 
+}
+.preback-2-2 {
+  background-image: url('/public/assets/presale/tboard.png');
+  width: 165px;
+  height: 51px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 69px;
+  margin-top: -5px;
+}
+.dback-2-2 {
+  background-image: url('/public/assets/dapp/t-nft.png');
+  width: 155px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 206px;
+  margin-top: -319px;
+}
+  .dback-2-3 {
+    background-image: url('/public/assets/dapp/t-15.png');
+    width: 113px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 301px;
+    margin-top: -22px;
+  }
+  .dback-2-4 {
+    background-image: url('/public/assets/dapp/usd-logo.png');
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 380px;
+    margin-top: -24px;
+    display: flex;
+  }
+  .dback-2-5 {
+    background-image: url('/public/assets/dapp/long-line.png');
+    width: 244px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 183px;
+    margin-top: 12px;
+    display: flex;
+  }
+  .dback-2-6 {
+    background-image: url('/public/assets/dapp/t-open.png');
+    width: 155px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 234px;
+    margin-top: 14px;
+    display: flex;
+  }
+  .dback-2-7 {
+    background-image: url('/public/assets/dapp/n1.png');
+    width: 40px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 308px;
+    margin-top: -20px;
+    display: flex;
+  }
+  .dback-2-8 {
+    background-image: url('/public/assets/dapp/short-line.png');
+    width: 204px;
+    height: 4px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 201px;
+    margin-top: 11px;
+    display: flex;
+  }
+  .dback-2-9 {
+    background-image: url('/public/assets/dapp/up.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -35px;
+    margin-left: 354px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-10 {
+    background-image: url('/public/assets/dapp/down.png');
+    width: 11px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 3px;
+    margin-left: 354px;
+    cursor: pointer;
+    display: flex;
+    cursor: pointer;
+  }
+  .dback-2-11 {
+    background-image: url('/public/assets/dapp/open-btn.png');
+    width: 188px;
+    height: 46px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 210px;
+    margin-top: 27px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-12 {
+    background-image: url('/public/assets/dapp/footers.png');
+    width: 505px;
+    height: 53px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 80px;
+    margin-top: 100px;
+    cursor: pointer;
+    display: flex;
+  }
+  .dback-2-13 {
+    background-image: url('/public/assets/dapp/dapp-footer.png');
+    width: 572px;
+    height: 27px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 42px;
+    margin-top: 30px;
+    display: flex;
+  }
+  .dapp-con-btn {
+    background-image: url('/public/assets/dapp/dapp-con-btn.png');
+    width: 442px;
+    height: 61px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -82px;
+    /* margin-left: 1463px; */
+    cursor: pointer;
+  }
+  .dapp-logo {
+    background-image: url('/public/assets/dapp/dapp-logo.png');
+    width: 333px;
+    height: 161px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -111px;
+    /* margin-left: 66px; */
+  }
+  .dback-3-1 {
+    background-image: url('/public/assets/dapp/dapp-robot.svg');
+    width: 264px;
+    height: 318px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: -308px;
+    margin-top: 16px;
+    background-size: 185px;
+  }
+  .dapp-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    margin-left: -452px;
+    background-size: 350px;
+  }
+  .dapp-dog1 {
+    background-image: url('/public/assets/dapp/dapp-dog1.png');
+    width: 601px;
+    height: 601px;
+    background-repeat: no-repeat;
+    margin-left: -22px;
+    background-size: 350px;
+  }
+}
+@media (min-width: 900px) and (max-width: 1000px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 370px;
+    margin-left: -80px;
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    width: 499px;
+    height: 325.5px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 193px;
+    background-size: inherit;
+  }
+  .preback-2-1 {
+    background-image: url('/public/assets/presale/t-token.png');
+    width: 276px;
+    height: 70px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 43px;
+    margin-top: 58px;
+  }
+  .dback-2-1 {
+    background-image: url('/public/assets/dapp/back.png');
+    width: 979px;
+    height: 579px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 8px;
+    margin-top: -62px;
+  }
+  .preback-2-2 {
+    background-image: url('/public/assets/presale/tboard.png');
+    width: 165px;
+    height: 51px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 76px;
+    margin-top: -5px;
+  }
+  .dback-2-2 {
+    background-image: url('/public/assets/dapp/t-nft.png');
+    width: 155px;
+    height: 20px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: -588px;
+    margin-top: 331px;
+  }
+  .ido-dog1 {
+    background-image: url('/public/assets/dapp/dapp-dog1.png');
+    width: 601px;
+    height: 601px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: 450px;
+    /* margin-top: 60px; */
+    /* margin-left: 1463px; */
+  }
+  .dapp-dog1 {
+    background-image: url('/public/assets/dapp/dapp-dog1.png');
+    width: 601px;
+    height: 601px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: 450px;
+    /* margin-top: 60px; */
+    /* margin-left: 1463px; */
+  }
+  .ido-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 10px; */
+    background-size: 450px;
+    margin-left: -290px;
+  }
+  .dapp-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 10px; */
+    background-size: 450px;
+    margin-left: -290px;
+  }
+}
+@media (min-width: 800px) and (max-width: 900px) {
+  .back-ido {
+    background-image: url('/public/assets/presale/token-modal.png');
+    width: 700px;
+    height: 530px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 297px; */
+    background-size: 370px;
+    /* margin-left: -80px; */
+  }
+  .back-dapp {
+    background-image: url('/public/assets/dapp/tele.png');
+    width: 499px;
+    height: 325.5px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: 193px;
+    background-size: inherit;
+  }
+  .preback-2-1 {
+    background-image: url('/public/assets/presale/t-token.png');
+    width: 276px;
+    height: 70px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 43px;
+    margin-top: 58px;
+  }
+  .dback-2-1 {
+    background-image: url('/public/assets/dapp/back.png');
+    width: 979px;
+    height: 579px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 8px;
+    margin-top: -62px;
+  }
+  .preback-2-2 {
+    background-image: url('/public/assets/presale/tboard.png');
+    width: 165px;
+    height: 51px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 76px;
+    margin-top: -5px;
+  }
+  .dback-2-2 {
+  background-image: url('/public/assets/dapp/t-nft.png');
+  width: 155px;
+  height: 20px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -588px;
+  margin-top: 331px;
+}
+  .dapp-logo {
+    background-image: url('/public/assets/dapp/dapp-logo.png');
+    width: 333px;
+    height: 161px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    margin-top: -9px;
+    /* margin-left: 66px; */
+  }
+  .dapp-con-btn {
+    background-image: url('/public/assets/dapp/dapp-con-btn.png');
+    width: 442px;
+    height: 61px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    /* margin-top: -153px; */
+    /* margin-left: 1463px; */
+    cursor: pointer;
+  }
+  .dapp-dog1 {
+    background-image: url('/public/assets/dapp/dapp-dog1.png');
+    width: 601px;
+    height: 601px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    /* margin-top: 360px; */
+    /* margin-left: 1463px; */
+  }
+  .dapp-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: -614px; */
+    /* margin-left: 1395px; */
+  }
+  .dapp-dog1 {
+    background-image: url('/public/assets/dapp/dapp-dog1.png');
+    width: 601px;
+    height: 601px;
+    /* display: inline-block; */
+    background-repeat: no-repeat;
+    background-size: 400px;
+    /* margin-top: 60px; */
+    /* margin-left: 1463px; */
+  }
+  .dapp-dog2 {
+    background-image: url('/public/assets/dapp/dapp-dog2.png');
+    width: 601px;
+    height: 601px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    /* margin-top: 10px; */
+    background-size: 400px;
+    margin-left: -290px;
+  }
+}
+/* .preback-2-1 {
+  background-image: url('/public/assets/presale/t-token.png');
+  width: 276px;
+  height: 70px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 212px;
+  margin-top: 58px;
+} */
+/* .preback-2-2 {
+  background-image: url('/public/assets/presale/tboard.png');
+  width: 165px;
+  height: 51px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -213px;
+  margin-top: 14px;
+}*/
+.preback-3-1 {
+  background-image: url('/public/assets/presale/t-001.png');
+  width: 147px;
+  height: 27px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 45px;
+  margin-top: 13px;
+} 
+.preback-2-12 {
+  background-image: url('/public/assets/dapp/footers.png');
+  width: 505px;
+  height: 53px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -383px;
+    margin-top: 624px;
+  cursor: pointer;
+}
+.preback-2-13 {
+  background-image: url('/public/assets/dapp/dapp-footer.png');
+  width: 572px;
+  height: 27px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -537px;
+  margin-top: 691px;
+}
+/* -------------presale ido page style end------------- */
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.background-main {
+  background-image: url("/public/assets/assets_game_cryptowao-011.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+}
+
+.background-dapp {
+  background-image: url("/public/assets/dapp/dapp-background.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+}
+
+.background-presale {
+  background-image: url("/public/assets/presale/presale-background.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 750px) {
+  .home-modal {
+    background-image: url('/public/assets/home/tele.png');
+    height: 296.5px;
+    display: inline-block;
+    width: 454px;
+    background-repeat: no-repeat;
+    margin-top: 193px;
+    background-size: inherit;
+  }
+  .main-modal {
+    background-image: url('/public/assets/inventory/cryptowao.png');
+    height: 296.5px;
+    display: inline-block;
+    width: 454px;
+    background-repeat: no-repeat;
+    margin-top: 193px;
+    background-size: inherit;
+  }
+  .position {
+    position: relative;
+    margin-top: 210px;
+  }
+  .inventory-position {
+    position: relative;
+    margin-top: 100px;
+  }
+  /* -------------------inventory page style start------------- */
+.back-1 {
+  background-image: url('/public/assets/inventory/cryptowao.png');
+  height: 296.5px;
+  display: inline-block;
+  width: 454px;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.back-2-1 {
+  background-image: url('/public/assets/inventory/inventory.png');
+  width: 251.5px;
+  height: 201px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 18px;
+  margin-top: -60px;
+}
+.back-2-2 {
+  background-image: url('/public/assets/inventory/aleman.png');
+  width: 146px;
+  height: 196.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 0 20px;
+  margin-top: -49px;
+}
+.back-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 18.5px;
+  height: 11.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -93px;
+  margin-left: -75px;
+}
+.back-2-4 {
+  background-image: url('/public/assets/inventory/coin.png');
+  width: 15px;
+  height: 15.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -96px;
+  margin-left: 1px;
+}
+.back-2-5 {
+  background-image: url('/public/assets/inventory/foot.png');
+  width: 29px;
+  height: 8px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -92px;
+  margin-left: -6px;
+}
+.back-2-6 {
+  background-image: url('/public/assets/inventory/cross.png');
+  width: 19px;
+  height: 19px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -429px;
+  margin-top: -58px;
+}
+.back-3-1 {
+  background-image: url('/public/assets/inventory/left.png');
+  width: 27px;
+  height: 28px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  cursor: pointer;
+}
+.back-3-2 {
+  background-image: url('/public/assets/inventory/pastor.png');
+  width: 112.5px;
+  height: 137.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+}
+.back-3-3 {
+  background-image: url('/public/assets/inventory/pitbull.png');
+  width: 92px;
+  height: 137.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+}
+.back-3-4 {
+  background-image: url('/public/assets/inventory/right.png');
+  width: 27px;
+  height: 28px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  cursor: pointer;
+}
+.list {
+  display: flex;
+  margin-top: 39px;
+  margin-left: 0px;
+}
+.doglist {
+  display: flex;
+}
+.content {
+  display: flex;
+  margin-top: 124px;
+}
+.disflex {
+  display: flex;
+}
+.back-4-1 {
+  background-image: url('/public/assets/inventory/dog1.png');
+  width: 72px;
+  height: 112.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 18px;
+  margin-right: 6px;
+}
+.back-4-2 {
+  background-image: url('/public/assets/inventory/dog2.png');
+  width: 72px;
+  height: 112.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 18px;
+  margin-right: 5px;
+}
+/* ----------------inventory page style end-------------------- */
+/* ---------------caseta recu page style start----------------- */
+.caback-2-1 {
+  background-image: url('/public/assets/caseta-recu/de.png');
+  width: 422.5px;
+  height: 211px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 16px;
+  margin-top: -62px;
+}
+.caback-2-6 {
+  background-image: url('/public/assets/inventory/cross.png');
+  width: 19px;
+  height: 19px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -411px;
+  margin-top: -60px;
+  cursor: pointer;
+}
+.caback-3-2 {
+  background-image: url('/public/assets/caseta-recu/border.png');
+  width: 86px;
+  height: 136px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.caback-3-3 {
+  background-image: url('/public/assets/caseta-recu/table.png');
+  width: 293.5px;
+  height: 136px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 5px;
+}
+.caback-4-1 {
+  background-image: url('/public/assets/caseta-recu/vector2.png');
+  width: 85px;
+  height: 132.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 2px;
+  margin-right: 0px;
+}
+.caback-5-1 {
+  background-image: url('/public/assets/caseta-recu/ca-coin.png');
+  width: 64.5px;
+  height: 18.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 105px;
+  margin-right: 0px;
+}
+.caback-6-1 {
+  background-image: url('/public/assets/caseta-recu/wcoin.png');
+  width: 39px;
+  height: 8.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 4px;
+  margin-right: 19px;
+}
+/* ---------------caseta recu page style end----------------- */
+/* ---------------modos page style start----------------- */
+.back-mo {
+  background-image: url('/public/assets/modos/back.png');
+  width: 454px;
+  height: 296.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.moback-2-1 {
+  background-image: url('/public/assets/modos/key1.png');
+  width: 136px;
+  height: 144.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 16px;
+  margin-top: -55px;
+}
+.moback-2-2 {
+  background-image: url('/public/assets/modos/modo.png');
+  width: 120px;
+  height: 144.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 13px;
+  margin-top: -55px;
+}
+.moback-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 18.5px;
+  height: 11.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -93px;
+  margin-left: -53px;
+}
+.moback-2-4 {
+  background-image: url('/public/assets/inventory/coin.png');
+  width: 15px;
+  height: 15.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -95px;
+  margin-left: 5px;
+}
+.moback-2-5 {
+  background-image: url('/public/assets/inventory/foot.png');
+  width: 29px;
+  height: 8px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -92px;
+  margin-left: 0px;
+}
+.moback-2-6 {
+  background-image: url('/public/assets/modos/key2.png');
+  width: 136px;
+  height: 144.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 12px;
+  margin-top: -55px;
+  cursor: pointer;
+}
+.moback-2-7 {
+  background-image: url('/public/assets/modos/frame.png');
+  width: 444.5px;
+  height: 17.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  margin-left: -444px;
+  margin-top: -97px;
+}
+.moback-2-8 {
+  background-image: url('/public/assets/modos/imgs.png');
+  width: 200px;
+  height: 40px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -214px;
+  margin-top: 108px;
+}
+/* ---------------modos page style end----------------- */
+/* -------------capsula embrio page style start------------- */
+.emback-2-1 {
+  background-image: url('/public/assets/capsula-emb/cap.png');
+  width: 420px;
+  height: 209.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 16px;
+  margin-top: -70px;
+}
+.emback-3-1 {
+  background-image: url('/public/assets/capsula-emb/bat-state.png');
+  width: 64px;
+  height: 20.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.emback-3-2 {
+  background-image: url('/public/assets/capsula-emb/radius-back.png');
+  width: 161px;
+  height: 150px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 34px;
+  margin-left: 0px;
+}
+.emback-4-1 {
+  background-image: url('/public/assets/capsula-emb/robot.png');
+  width: 161px;
+  height: 160px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: -13px;
+    margin-left: 2px;
+}
+.emback-3-3 {
+  background-image: url('/public/assets/capsula-emb/coin-state.png');
+  width: 64px;
+  height: 20.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.embtns {
+  margin-top: -25px;
+  margin-left: -20px;
+}
+/* -------------capsula embrio page style end------------- */
+/* -------------recommpensas page style style------------- */
+
+.reback-2-1 {
+  background-image: url('/public/assets/recompensas/re-part.png');
+  width: 322.5px;
+  height: 231px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 65px;
+  margin-top: -73px;
+}
+.reback-3-1 {
+background-image: url('/public/assets/recompensas/t-recom.png');
+width: 93.5px;
+height: 15.5px;
+/* display: inline-block; */
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 119px;
+margin-top: 12px;
+}
+.reback-3-2 {
+background-image: url('/public/assets/recompensas/rectang.png');
+width: 107px;
+height: 145px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: 13px;
+margin-left: 0px;
+}
+.reback-4-1 {
+background-image: url('/public/assets/recompensas/re-wcoin.png');
+width: 60px;
+height: 11px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: 9px;
+margin-left: 29px;
+}
+.reback-4-2 {
+background-image: url('/public/assets/recompensas/re-coin.png');
+width: 85px;
+height: 85px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: 6px;
+margin-left: 3px;
+}
+.reback-4-3 {
+background-image: url('/public/assets/recompensas/re-3800.png');
+width: 60px;
+height: 11px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: 5px;
+margin-left: 26px;
+}
+.reback-3-3 {
+background-image: url('/public/assets/recompensas/re-button.png');
+width: 82.5px;
+height: 26.5px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: 30px;
+margin-left: 25px;
+cursor: pointer;
+}
+.reback-2-3 {
+background-image: url('/public/assets/inventory/n174.png');
+width: 18.5px;
+height: 11.5px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+margin-top: -93px;
+margin-left: 0px;
+}
+.reback-2-6 {
+background-image: url('/public/assets/inventory/cross.png');
+width: 19px;
+height: 19px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: -384px;
+margin-top: -66px;
+cursor: pointer;
+}
+/* -------------recommpensas page style end------------- */
+
+/* -------------mapa page style start------------- */
+.maback-2-1 {
+  background-image: url('/public/assets/mapa/mapa-main.png');
+  width: 444px;
+  height: 222px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -71px;
+  margin-left: 5px;
+}
+.maback-2-2 {
+  background-image: url('/public/assets/mapa/mapa-up.png');
+  width: 61.5px;
+  height: 19.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 149px;
+  margin-left: -253px;
+}
+.maback-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 18.5px;
+  height: 11.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -92px;
+  margin-left: 139px;
+}
+.maback-2-7 {
+  background-image: url('/public/assets/mapa/mapa-left.png');
+  width: 17px;
+  height: 17px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -447px;
+  margin-top: -93px;
+  cursor: pointer;
+}
+.maback-2-8 {
+  background-image: url('/public/assets/mapa/mapa-setting.png');
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 354px;
+  margin-top: -94px;
+  cursor: pointer;
+}
+/* -------------mapa page style end------------- */
+/* -------------dapp page style start------------- */
+.background-dapp {
+  background-image: url("/public/assets/dapp/dapp-background.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+}
+.back-dapp {
+  background-image: url('/public/assets/dapp/tele.png');
+  width: 499px;
+  height: 325.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.dapp-logo {
+  background-image: url('/public/assets/dapp/dapp-logo.png');
+  width: 166.5px;
+  height: 80.5px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: -800px;
+  margin-left: 66px;
+}
+.dapp-con-btn {
+  background-image: url('/public/assets/dapp/dapp-con-btn.png');
+  width: 221px;
+  height: 30.5px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: -153px;
+  margin-left: 1463px;
+  cursor: pointer;
+}
+.dapp-dog1 {
+  background-image: url('/public/assets/dapp/dapp-dog1.png');
+  width: 300.5px;
+  height: 300.5px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: 360px;
+  /* margin-left: 1463px; */
+}
+.dapp-dog2 {
+  background-image: url('/public/assets/dapp/dapp-dog2.png');
+  width: 300.5px;
+  height: 300.5px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: -614px;
+  margin-left: 1395px;
+}
+.dback-2-1 {
+  background-image: url('/public/assets/dapp/back.png');
+  width: 489.5px;
+  height: 289.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  margin-left: 8px;
+  margin-top: -62px;
+}
+.dback-2-2 {
+  background-image: url('/public/assets/dapp/t-nft.png');
+  width: 77.5px;
+  height: 10px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -291px;
+  margin-top: 141px;
+}
+.dback-2-3 {
+  background-image: url('/public/assets/dapp/t-15.png');
+  width: 56.5px;
+  height: 11px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -24px;
+  margin-top: 142px;
+}
+.dback-2-4 {
+  background-image: url('/public/assets/dapp/usd-logo.png');
+  width: 13px;
+  height: 12.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -18px;
+  margin-top: 140px;
+}
+.dback-2-5 {
+  background-image: url('/public/assets/dapp/long-line.png');
+  width: 122px;
+  height: 2px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -116px;
+  margin-top: 159px;
+}
+.dback-2-6 {
+  background-image: url('/public/assets/dapp/t-open.png');
+  width: 77.5px;
+  height: 10px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -90px;
+  margin-top: 167px;
+}
+.dback-2-7 {
+  background-image: url('/public/assets/dapp/n1.png');
+  width: 20px;
+  height: 10.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -45px;
+  margin-top: 167px;
+}
+.dback-2-8 {
+  background-image: url('/public/assets/dapp/short-line.png');
+  width: 102px;
+  height: 2px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -74px;
+  margin-top: 186px;
+}
+.dback-2-9 {
+  background-image: url('/public/assets/dapp/up.png');
+  width: 11px;
+  height: 8px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -27px;
+  margin-top: 166px;
+  cursor: pointer;
+}
+.dback-2-10 {
+  background-image: url('/public/assets/dapp/down.png');
+  width: 11px;
+  height: 8px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -11px;
+  margin-top: 176px;
+  cursor: pointer;
+}
+.dback-2-11 {
+  background-image: url('/public/assets/dapp/open-btn.png');
+  width: 94px;
+  height: 23px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -82px;
+  margin-top: 195px;
+  cursor: pointer;
+}
+.dback-2-12 {
+  background-image: url('/public/assets/dapp/footers.png');
+  width: 252.5px;
+  height: 26.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -174px;
+  margin-top: 263px;
+  cursor: pointer;
+}
+.dback-2-13 {
+  background-image: url('/public/assets/dapp/dapp-footer.png');
+  width: 286px;
+  height: 13.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -280px;
+  margin-top: 298px;
+}
+.dback-3-1 {
+  background-image: url('/public/assets/dapp/dapp-robot.svg');
+  width: 132px;
+  height: 159px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 8px;
+  margin-top: 31px;
+}
+/* -------------dapp page style end------------- */
+/* -------------presale ido page style start------------- */
+.background-ido {
+  background-image: url("/public/assets/presale/presale-background.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+}
+.back-ido {
+  background-image: url('/public/assets/presale/token-modal.png');
+  width: 350px;
+  height: 265px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 297px;
+  background-size: inherit;
+}
+.back-dapp {
+  background-image: url('/public/assets/dapp/tele.png');
+  width: 499px;
+  height: 325.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.preback-2-1 {
+  background-image: url('/public/assets/presale/t-token.png');
+  width: 138px;
+  height: 35px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 103px;
+  margin-top: -85px;
+}
+.preback-2-2 {
+  background-image: url('/public/assets/presale/tboard.png');
+  width: 82.5px;
+  height: 25.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -109px;
+  margin-top: -46px;
+}
+.preback-3-1 {
+  background-image: url('/public/assets/presale/t-001.png');
+  width: 73.5px;
+  height: 13.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 25px;
+  margin-top: 5px;
+}
+.preback-2-12 {
+  background-image: url('/public/assets/dapp/footers.png');
+  width: 252.5px;
+  height: 26.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -169px;
+  margin-top: 174px;
+  cursor: pointer;
+}
+.preback-2-13 {
+  background-image: url('/public/assets/dapp/dapp-footer.png');
+  width: 286px;
+  height: 13.5px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -274px;
+  margin-top: 215px;
+}
+/* -------------presale ido page style end------------- */
+
+}
+
+@media (min-width: 750px) and (max-width: 900px) {
+  .home-modal {
+    background-image: url('/public/assets/home/tele.png');
+    height: 395.3px;
+    display: inline-block;
+    width: 605.3px;
+    background-repeat: no-repeat;
+    margin-top: 193px;
+    background-size: inherit;
+  }
+  .main-modal {
+    background-image: url('/public/assets/inventory/cryptowao.png');
+    height: 395.3px;
+    display: inline-block;
+    width: 605.3px;
+    background-repeat: no-repeat;
+    margin-top: 193px;
+    background-size: inherit;
+  }
+  .buttons {
+    margin-top: -50px;
+  }
+  .position {
+    position: relative;
+    margin-top: 300px;
+  }
+  /* -------------------inventory page style start------------- */
+.back-1 {
+  background-image: url('/public/assets/inventory/cryptowao.png');
+  height: 395.3px;
+  display: inline-block;
+  width: 605.3px;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.back-2-1 {
+  background-image: url('/public/assets/inventory/inventory.png');
+  width: 335.3px;
+  height: 268px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 23px;
+  margin-top: -47px;
+}
+.back-2-2 {
+  background-image: url('/public/assets/inventory/aleman.png');
+  width: 194.6px;
+  height: 262px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 0 20px;
+  margin-top: -27px;
+}
+.back-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 24.6px;
+  height: 15.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -84px;
+  margin-left: -80px;
+}
+.back-2-4 {
+  background-image: url('/public/assets/inventory/coin.png');
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -88px;
+  margin-left: 3px;
+}
+.back-2-5 {
+  background-image: url('/public/assets/inventory/foot.png');
+  width: 38.6px;
+  height: 10.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -81px;
+  margin-left: -5px;
+}
+.back-2-6 {
+  background-image: url('/public/assets/inventory/cross.png');
+  width: 25.3px;
+  height: 25.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -583px;
+  margin-top: -40px;
+  cursor: pointer;
+}
+.back-3-1 {
+  background-image: url('/public/assets/inventory/left.png');
+  width: 27px;
+  height: 28px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  cursor: pointer;
+}
+.back-3-2 {
+  background-image: url('/public/assets/inventory/pastor.png');
+  width: 150px;
+  height: 183.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+}
+.back-3-3 {
+  background-image: url('/public/assets/inventory/pitbull.png');
+  width: 122.6px;
+  height: 183.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+}
+.back-3-4 {
+  background-image: url('/public/assets/inventory/right.png');
+  width: 27px;
+  height: 28px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  cursor: pointer;
+}
+.list {
+  display: flex;
+  margin-top: 53px;
+  margin-left: 5px;
+}
+.doglist {
+  display: flex;
+}
+.content {
+  display: flex;
+  margin-top: 124px;
+}
+.disflex {
+  display: flex;
+}
+.back-4-1 {
+  background-image: url('/public/assets/inventory/dog1.png');
+  height: 150px;
+  display: inline-block;
+  width: 96px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 25px;
+  margin-right: 19px;
+}
+.back-4-2 {
+  background-image: url('/public/assets/inventory/dog2.png');
+  height: 150px;
+  display: inline-block;
+  width: 96px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 25px;
+  margin-right: 15px;
+}
+/* ----------------inventory page style end-------------------- */
+/* ---------------caseta recu page style start----------------- */
+.caback-2-1 {
+  background-image: url('/public/assets/caseta-recu/de.png');
+  width: 563.3px;
+  height: 281.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 21px;
+  margin-top: -48px;
+}
+.caback-2-6 {
+  background-image: url('/public/assets/inventory/cross.png');
+  width: 25.3px;
+  height: 25.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -573px;
+  margin-top: -44px;
+  cursor: pointer;
+}
+.caback-3-2 {
+  background-image: url('/public/assets/caseta-recu/border.png');
+  width: 114.6px;
+  height: 181.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.caback-3-3 {
+  background-image: url('/public/assets/caseta-recu/table.png');
+  width: 391.3px;
+  height: 181.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.caback-4-1 {
+  background-image: url('/public/assets/caseta-recu/vector2.png');
+  width: 113.3px;
+  height: 176.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 2px;
+  margin-right: 0px;
+}
+.caback-5-1 {
+  background-image: url('/public/assets/caseta-recu/ca-coin.png');
+  width: 86px;
+  height: 24.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 140px;
+  margin-right: 0px;
+}
+.caback-6-1 {
+  background-image: url('/public/assets/caseta-recu/wcoin.png');
+  width: 52px;
+  height: 11.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 7px;
+  margin-right: 19px;
+}
+/* ---------------caseta recu page style end----------------- */
+/* ---------------modos page style start----------------- */
+.back-mo {
+  background-image: url('/public/assets/modos/back.png');
+  width: 605.3px;
+  height: 395.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.moback-2-1 {
+  background-image: url('/public/assets/modos/key1.png');
+  width: 184px;
+  height: 192.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 20px;
+  margin-top: -16px;
+}
+.moback-2-2 {
+  background-image: url('/public/assets/modos/modo.png');
+  width: 160px;
+  height: 192.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 20px;
+  margin-top: -16px;
+}
+.moback-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 24.6px;
+  height: 15.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -83px;
+  margin-left: -83px;
+}
+.moback-2-4 {
+  background-image: url('/public/assets/inventory/coin.png');
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -84px;
+  margin-left: 5px;
+}
+.moback-2-5 {
+  background-image: url('/public/assets/inventory/foot.png');
+  width: 38.6px;
+  height: 10.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -80px;
+  margin-left: 0px;
+}
+.moback-2-6 {
+  background-image: url('/public/assets/modos/key2.png');
+  width: 184px;
+  height: 192.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 18px;
+  margin-top: -16px;
+  cursor: pointer;
+}
+.moback-2-7 {
+  background-image: url('/public/assets/modos/frame.png');
+  width: 592.6px;
+  height: 23.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  margin-left: -585px;
+  margin-top: -88px;
+}
+.moback-2-8 {
+  background-image: url('/public/assets/modos/imgs.png');
+  width: 266.6px;
+  height: 53.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -287px;
+  margin-top: 192px;
+}
+/* ---------------modos page style end----------------- */
+/* -------------capsula embrio page style start------------- */
+.emback-2-1 {
+  background-image: url('/public/assets/capsula-emb/cap.png');
+  width: 560px;
+  height: 279.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 21px;
+  margin-top: -54px;
+}
+.emback-3-1 {
+  background-image: url('/public/assets/capsula-emb/bat-state.png');
+  width: 85.3px;
+  height: 27.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.emback-3-2 {
+  background-image: url('/public/assets/capsula-emb/radius-back.png');
+  width: 214.6px;
+  height: 200px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 44px;
+  margin-left: 0px;
+}
+.emback-4-1 {
+  background-image: url('/public/assets/capsula-emb/robot.png');
+  width: 214.6px;
+  height: 213.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: -20px;
+  margin-left: 2px;
+}
+.emback-3-3 {
+  background-image: url('/public/assets/capsula-emb/coin-state.png');
+  width: 85.3px;
+  height: 27.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-self: center;
+  margin-top: 12px;
+  margin-left: 25px;
+}
+.embtns {
+  margin-top: -26px;
+  margin-left: -20px;
+}
+/* -------------capsula embrio page style end------------- */
+/* -------------recommpensas page style style------------- */
+
+.reback-2-1 {
+  background-image: url('/public/assets/recompensas/re-part.png');
+  width: 430px;
+  height: 308px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 86px;
+  margin-top: -58px;
+}
+.reback-3-1 {
+background-image: url('/public/assets/recompensas/t-recom.png');
+width: 124.6px;
+height: 20.6px;
+/* display: inline-block; */
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 159px;
+margin-top: 14px;
+}
+.reback-3-2 {
+background-image: url('/public/assets/recompensas/rectang.png');
+width: 142.69px;
+height: 193.3px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: 20px;
+margin-left: 0px;
+}
+.reback-4-1 {
+background-image: url('/public/assets/recompensas/re-wcoin.png');
+width: 80px;
+height: 14.6px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: 20px;
+margin-left: 35px;
+}
+.reback-4-2 {
+background-image: url('/public/assets/recompensas/re-coin.png');
+width: 113.3px;
+height: 113.3px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: 11px;
+margin-left: 8px;
+}
+.reback-4-3 {
+background-image: url('/public/assets/recompensas/re-3800.png');
+width: 80px;
+height: 14.6px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: -1px;
+margin-left: 40px;
+}
+.reback-3-3 {
+background-image: url('/public/assets/recompensas/re-button.png');
+width: 110px;
+height: 35.3px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+align-self: center;
+margin-top: 34px;
+margin-left: 25px;
+cursor: pointer;
+}
+.reback-2-3 {
+background-image: url('/public/assets/inventory/n174.png');
+width: 24.6px;
+height: 15.3px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+margin-top: -83px;
+margin-left: -2px;
+}
+.reback-2-6 {
+background-image: url('/public/assets/inventory/cross.png');
+width: 25.3px;
+height: 25.3px;
+display: inline-block;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: -514px;
+margin-top: -50px;
+cursor: pointer;
+}
+/* -------------recommpensas page style end------------- */
+/* -------------mapa page style start------------- */
+.maback-2-1 {
+  background-image: url('/public/assets/mapa/mapa-main.png');
+  width: 592px;
+  height: 296px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -50px;
+  margin-left: 6px;
+}
+.maback-2-2 {
+  background-image: url('/public/assets/mapa/mapa-up.png');
+  width: 82px;
+  height: 26px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 237px;
+  margin-left: -333px;
+}
+.maback-2-3 {
+  background-image: url('/public/assets/inventory/n174.png');
+  width: 24.6px;
+  height: 15.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: -84px;
+  margin-left: 172px;
+}
+.maback-2-7 {
+  background-image: url('/public/assets/mapa/mapa-left.png');
+  width: 22.6px;
+  height: 22.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -586px;
+  margin-top: -83px;
+  cursor: pointer;
+}
+.maback-2-8 {
+  background-image: url('/public/assets/mapa/mapa-setting.png');
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 459px;
+  margin-top: -86px;
+  cursor: pointer;
+}
+/* -------------mapa page style end------------- */
+/* -------------dapp page style start------------- */
+.background-dapp {
+  background-image: url("/public/assets/dapp/dapp-background.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+}
+.back-dapp {
+  background-image: url('/public/assets/dapp/tele.png');
+  width: 665.3px;
+  height: 434px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 193px;
+  background-size: inherit;
+}
+.dapp-con-btn {
+  background-image: url('/public/assets/dapp/dapp-con-btn.png');
+  width: 294.6px;
+  height: 40.6px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: -153px;
+  margin-left: 1463px;
+  cursor: pointer;
+}
+.dapp-dog1 {
+  background-image: url('/public/assets/dapp/dapp-dog1.png');
+  width: 400.6px;
+  height: 400.6px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: 360px;
+  /* margin-left: 1463px; */
+}
+.dapp-dog2 {
+  background-image: url('/public/assets/dapp/dapp-dog2.png');
+  width: 400.6px;
+  height: 400.6px;
+  /* display: inline-block; */
+  background-repeat: no-repeat;
+  margin-top: -614px;
+  margin-left: 1395px;
+}
+/* .dback-2-1 {
+  background-image: url('/public/assets/dapp/back.png');
+  width: 652.6px;
+  height: 386px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 8px;
+  margin-top: -62px;
+}
+.dback-2-2 {
+  background-image: url('/public/assets/dapp/t-nft.png');
+  width: 103.3px;
+  height: 13.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -384px;
+  margin-top: 197px;
+}
+.dback-2-3 {
+  background-image: url('/public/assets/dapp/t-15.png');
+  width: 75.3px;
+  height: 14.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -36px;
+  margin-top: 197px;
+}
+.dback-2-4 {
+  background-image: url('/public/assets/dapp/usd-logo.png');
+  width: 17.3px;
+  height: 16.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -27px;
+  margin-top: 194px;
+}
+.dback-2-5 {
+  background-image: url('/public/assets/dapp/long-line.png');
+  width: 162.6px;
+  height: 2.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -150px;
+  margin-top: 216px;
+}
+.dback-2-6 {
+  background-image: url('/public/assets/dapp/t-open.png');
+  width: 103.3px;
+  height: 13.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -126px;
+  margin-top: 225px;
+}
+.dback-2-7 {
+  background-image: url('/public/assets/dapp/n1.png');
+  width: 26.6px;
+  height: 14px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -54px;
+  margin-top: 226px;
+}
+.dback-2-8 {
+  background-image: url('/public/assets/dapp/short-line.png');
+  width: 136px;
+  height: 2.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -101px;
+  margin-top: 246px;
+}
+.dback-2-9 {
+  background-image: url('/public/assets/dapp/up.png');
+  width: 11px;
+  height: 8px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -34px;
+  margin-top: 224px;
+  cursor: pointer;
+}
+.dback-2-10 {
+  background-image: url('/public/assets/dapp/down.png');
+  width: 11px;
+  height: 8px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -11px;
+  margin-top: 235px;
+  cursor: pointer;
+}
+.dback-2-11 {
+  background-image: url('/public/assets/dapp/open-btn.png');
+  width: 125.3px;
+  height: 30.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -108px;
+  margin-top: 262px;
+  cursor: pointer;
+}
+.dback-2-12 {
+  background-image: url('/public/assets/dapp/footers.png');
+  width: 336.6px;
+  height: 35.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -235px;
+  margin-top: 395px;
+  cursor: pointer;
+}
+.dback-2-13 {
+  background-image: url('/public/assets/dapp/dapp-footer.png');
+  width: 381.3px;
+  height: 18px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -363px;
+  margin-top: 447px;
+}
+.dback-3-1 {
+  background-image: url('/public/assets/dapp/dapp-robot.svg');
+  width: 176px;
+  height: 212px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 8px;
+  margin-top: 42px;
+} */
+/* -------------dapp page style end------------- */
+/* -------------presale ido page style start------------- */
+.background-ido {
+  background-image: url("/public/assets/presale/presale-background.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+}
+/* .back-ido {
+  background-image: url('/public/assets/presale/token-modal.png');
+  width: 466.6px;
+  height: 353.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  margin-top: 297px;
+  background-size: inherit;
+} */
+/* .preback-2-1 {
+  background-image: url('/public/assets/presale/t-token.png');
+  width: 184px;
+  height: 46.6px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 149px;
+  margin-top: -65px;
+}
+.preback-2-2 {
+  background-image: url('/public/assets/presale/tboard.png');
+  width: 110px;
+  height: 34px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -150px;
+  margin-top: -12px;
+} */
+/* .preback-3-1 {
+  background-image: url('/public/assets/presale/t-001.png');
+  width: 98px;
+  height: 18px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 33px;
+  margin-top: 9px;
+}
+.preback-2-12 {
+  background-image: url('/public/assets/dapp/footers.png');
+  width: 336.6px;
+  height: 35.3px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -225px;
+  margin-top: 275px;
+  cursor: pointer;
+}
+.preback-2-13 {
+  background-image: url('/public/assets/dapp/dapp-footer.png');
+  width: 381.3px;
+  height: 18px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: -368px;
+  margin-top: 330px;
+} */
+/* -------------presale ido page style end------------- */
+
+}
+
+@media only screen and (min-width: 900px) {
+  .home-modal {
+    background-image: url('/public/assets/home/tele.png');
+    height: 593px;
+    display: inline-block;
+    width: 908px;
+    background-repeat: no-repeat;
+    margin-top: 193px;
+  }
+  .main-modal {
+    background-image: url('/public/assets/inventory/cryptowao.png');
+    height: 593px;
+    display: inline-block;
+    width: 908px;
+    background-repeat: no-repeat;
+    margin-top: 193px;
+  }
+  .mar-3 {
+    margin-right: 50px;
+  }
+  .position {
+    position: relative;
+    margin-top: 473px;
+  }
+}
+
+.img-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.buttons {
+  margin-top: 25px;
+}
+
+/* .bottom-buttons {
+  margin-top: 220px;
+} */
+
+.pos {
+  position: relative;
+}
+
+.bottom-position {
+  margin-top: 220px;
+}
+
+.left {
+  position: absolute;
+  top: 529px;
+  left: 580px;
+  cursor: pointer;
+}
+
+.right {
+  position: absolute;
+  top: 529px;
+  left: 1018px;
+  cursor: pointer;
+} */
+
+/* .n73 {
+  position: absolute;
+  top: 453px;
+  left: 1306px;
+}
+
+.n45-1 {
+  position: absolute;
+  top: 503px;
+  left: 1306px;
+}
+
+.n45-2 {
+  position: absolute;
+  top: 553px;
+  left: 1306px;
+}
+
+.n45-3 {
+  position: absolute;
+  top: 602px;
+  left: 1306px;
+}
+
+.n45-4 {
+  position: absolute;
+  top: 651px;
+  left: 1306px;
+} */
+
+.caseta {
+  position: absolute;
+  top: 197px;
+  left: 506px;
+}
+
+.de {
+  position: absolute;
+  top: 317px;
+  left: 534px;
+}
+
+.cross-de {
+  position: absolute;
+  top: 317px;
+  left: 521px;
+  cursor: pointer;
+}
+
+.border {
+  position: absolute;
+  top: 396px;
+  left: 573px;
+}
+
+.vector {
+  position: absolute;
+  top: 400.23px;
+  left: 576.53px;
+}
+
+.home {
+  position: absolute;
+  top: 417.98px;
+  left: 600.53px
+}
+
+.home-btn {
+  position: absolute;
+  top: 814px;
+  left: 731px;
+  cursor: pointer;
+}
+
+.market-btn {
+  position: absolute;
+  top: 814px;
+  left: 995px;
+  cursor: pointer;
+}
+
+.maxi {
+  position: absolute;
+  top: 553.65px;
+  left: 601.72px;
+}
+
+.supply {
+  position: absolute;
+  top: 582.32px;
+  left: 598.84px;
+}
+
+.n200 {
+  position:absolute;
+  top: 582.32px;
+  left: 663.94px;
+}
+
+.wcoin {
+  position: absolute;
+  top: 625px;
+  left: 606px;
+}
+
+.coin {
+  position:absolute;
+  top: 621px;
+  left: 682.51px;
+}
+
+.com-btn {
+  position: absolute;
+  top: 682px;
+  left: 608px;
+  cursor: pointer;
+}
+
+.table {
+  position: absolute;
+  top: 405px;
+  left:767px;
+}
+
+.n174 {
+  position: absolute;
+  top: 262px;
+  left: 1279px;
+}
+
+.top-coin {
+  position: absolute;
+  top: 259px;
+  left: 1314px;
+}
+
+.foot {
+  position: absolute;
+  top: 263px;
+  left: 1343px;
+}
+
+.key1 {
+  position: absolute;
+  top: 346px;
+  left: 540px;
+}
+
+.modo {
+  position: absolute;
+  top: 346px;
+  left: 840px;
+  cursor: pointer;
+}
+
+.key2 {
+  position: absolute;
+  top: 346px;
+  left: 1106px;
+}
+
+.imgs {
+  position: absolute;
+  top: 665px;
+  left: 988px;
+}
+
+.cap {
+  position: absolute;
+  top: 300px;
+  left: 540px;
+}
+
+.cross-cap {
+  position: absolute;
+  top: 303px;
+  left: 521px;
+}
+
+.radius-back {
+  position: absolute;
+  top: 370px;
+  left: 795px;
+}
+
+.robot {
+  position: absolute;
+  top: 346px;
+  left: 797px;
+}
+
+.coin-state {
+  position: absolute;
+  top: 650px;
+  left: 821px;
+}
+.frame {
+  position:absolute;
+  top: 253px;
+  left: 515px;
+}
+
+.bat-state {
+  position: absolute;
+  top: 650px;
+  left: 969px;
+}
+
+.re-part {
+  position: absolute;
+  top: 292px;
+  left: 637px;
+}
+
+.t-recom {
+  position: absolute;
+  top: 315px;
+  left: 884px;
+}
+
+.rectang {
+  position: absolute;
+  top: 373px;
+  left: 853px;
+}
+
+.re-wcoin {
+  position: absolute;
+  top: 391px;
+  left: 925px;
+}
+
+.re-coin {
+  position: absolute;
+  top: 436px;
+  left: 878px;
+}
+
+.re-3800 {
+  position: absolute;
+  top: 613px;
+  left: 930px;
+}
+
+.re-button {
+  position: absolute;
+  top: 673px;
+  left: 877px;
+  cursor: pointer;
+}
+
+.re-cross {
+  position: absolute;
+  top: 298px;
+  left: 630px;
+  cursor: pointer;
+}
+
+.per-part {
+  position: absolute;
+  top: 319px;
+  left: 536px;
+}
+
+.t-per {
+  position: absolute;
+  top: 331px;
+  left: 730px;
+}
+
+.per-list1 {
+  position: absolute;
+  top: 371px;
+  left: 544px;
+}
+
+.per-list2 {
+  position: absolute;
+  top: 456px;
+  left: 544px;
+}
+
+.per-list3 {
+  position: absolute;
+  top: 541px;
+  left: 544px;
+}
+
+.per-list4 {
+  position: absolute;
+  top: 626px;
+  left: 544px;
+}
+
+.per-border {
+  position: absolute;
+  top: 337px;
+  left: 1074px;
+}
+
+.per-pro {
+  position: absolute;
+  top: 369px;
+  left: 1145px;
+}
+
+.t-lv1 {
+  position: absolute;
+  top: 397px;
+  left: 622px;
+}
+
+.t-lv2 {
+  position: absolute;
+  top: 482px;
+  left: 622px;
+}
+
+.t-lv3 {
+  position: absolute;
+  top: 567px;
+  left: 622px;
+}
+
+.t-lv4 {
+  position: absolute;
+  top: 652px;
+  left: 622px;
+}
+
+.t-lv5 {
+  position: absolute;
+  top: 378px;
+  left: 1229px;
+}
+
+.t-3341 {
+  position: absolute;
+  top: 392px;
+  left: 753px;
+}
+.t-3342 {
+  position: absolute;
+  top: 475px;
+  left: 753px;
+}
+.t-3343 {
+  position: absolute;
+  top: 560px;
+  left: 753px;
+}
+.t-3344 {
+  position: absolute;
+  top: 645px;
+  left: 753px;
+}
+
+.t-work1 {
+  position: absolute;
+  top: 411px;
+  left: 865px;
+}
+
+.t-work2 {
+  position: absolute;
+  top: 496px;
+  left: 865px;
+}
+
+.t-work3 {
+  position: absolute;
+  top: 581px;
+  left: 865px;
+}
+
+.t-work4 {
+  position: absolute;
+  top: 666px;
+  left: 865px;
+}
+
+.t-break1 {
+  position: absolute;
+  top: 411px;
+  left: 920px;
+}
+
+.t-break2 {
+  position: absolute;
+  top: 496px;
+  left: 920px;
+}
+
+.t-break3 {
+  position: absolute;
+  top: 581px;
+  left: 920px;
+}
+
+.t-break4 {
+  position: absolute;
+  top: 666px;
+  left: 920px;
+}
+
+.t-home1 {
+  position: absolute;
+  top: 411px;
+  left: 979px;
+}
+
+.t-home2 {
+  position: absolute;
+  top: 496px;
+  left: 979px;
+}
+
+.t-home3 {
+  position: absolute;
+  top: 581px;
+  left: 979px;
+}
+
+.t-home4 {
+  position: absolute;
+  top: 666px;
+  left: 979px;
+}
+
+.t-651 {
+  position: absolute;
+  top: 478px;
+  left: 1320px;
+}
+.t-652 {
+  position: absolute;
+  top: 528px;
+  left: 1320px;
+}
+.t-653 {
+  position: absolute;
+  top: 578px;
+  left: 1320px;
+}
+.t-654 {
+  position: absolute;
+  top: 628px;
+  left: 1320px;
+}
+
+.t-655 {
+  position: absolute;
+  top: 681px;
+  left: 1320px;
+}
+
+.mapa-frame {
+  position: absolute;
+  top: 255px;
+  left: 515px;
+}
+
+.mapa-left {
+  position: absolute;
+  top: 256px;
+  left: 519px;
+}
+
+.mapa-setting {
+  position: absolute;
+  top: 258px;
+  left: 1245px;
+}
+
+.mapa-main {
+  position: absolute;
+  top: 310px;
+  left: 515px;
+}
+
+.mapa-up {
+  position: absolute;
+  top: 743px;
+  left: 897px;
+}
+
+.dapp-modal {
+  position: absolute;
+  top: 173px;
+  left: 465px;
+}
+
+.back {
+  position: absolute;
+  top: 234px;
+  left: 473px;
+}
+
+.dapp-robot {
+  position: absolute;
+  top: 275px;
+  left: 828px;
+}
+
+.dapp-footer {
+  position: absolute;
+  top: 1006px;
+  left: 686px;
+}
+
+.black-cir1 {
+  position: absolute;
+  top: 933px;
+  left: 711px;
+}
+
+.black-cir2 {
+  position: absolute;
+  top: 933px;
+  left: 786.3px;
+}
+
+.black-cir3 {
+  position: absolute;
+  top: 933px;
+  left: 861.6px;
+}
+
+.black-cir4 {
+  position: absolute;
+  top: 933px;
+  left: 936.89px;
+}
+
+.black-cir5 {
+  position: absolute;
+  top: 933px;
+  left: 1012.19px;
+}
+
+.black-cir6 {
+  position: absolute;
+  top: 933px;
+  left: 1087.49px;
+}
+
+.black-cir7 {
+  position: absolute;
+  top: 933px;
+  left: 1162.76px;
+}
+
+.t-tele {
+  position: absolute;
+  top: 942.91px;
+  left: 726.69px;
+}
+
+.t-dis {
+  position: absolute;
+  top: 937px;
+  left: 791px;
+}
+
+.t-vi1 {
+  position: absolute;
+  top: 943px;
+  left: 871.4px;
+}
+
+.t-vi2 {
+  position: absolute;
+  top: 951.13px;
+  left: 879.72px;
+}
+
+.t-vi3 {
+  position: absolute;
+  top: 948.76px;
+  left: 895.36px;
+}
+
+.t-you {
+  position: absolute;
+  top: 947.29px;
+  left: 945.82px;
+}
+
+.t-twi {
+  position: absolute;
+  top: 947.04px;
+  left: 1022.69px;
+}
+
+.t-link1 {
+  position: absolute;
+  top: 953.29px;
+  left: 1099.31px;
+}
+
+.t-link2 {
+  position: absolute;
+  top: 952.76px;
+  left: 1110.08px;
+}
+
+.t-link3 {
+  position: absolute;
+  top: 942.76px;
+  left: 1098.81px;
+}
+
+.t-face {
+  position: absolute;
+  top: 943.48px;
+  left: 1178.59px;
+}
+
+.t-nft {
+  position:absolute;
+  top: 620px;
+  left: 850px;
+}
+
+.t-15 {
+  position: absolute;
+  top: 615px;
+  left: 955px;
+}
+
+.usd-logo {
+  position: absolute;
+  top: 615px;
+  left: 1046px;
+}
+
+.long-line {
+  position: absolute;
+  top: 652px;
+  left: 842px;
+}
+
+.short-line {
+  position: absolute;
+  top: 703px;
+  left: 858px;
+}
+
+.t-open {
+  position: absolute;
+  top: 669px;
+  left: 880px;
+}
+
+.n1 {
+  position: absolute;
+  top: 670px;
+  left: 970px;
+}
+
+.up {
+  position: absolute;
+  top: 670px;
+  left: 1021px;
+  cursor: pointer;
+}
+
+.down {
+  position: absolute;
+  top: 683px;
+  left: 1021px;
+  cursor: pointer;
+}
+
+.open-btn {
+  position: absolute;
+  top: 723px;
+  left: 868px;
+  cursor: pointer;
+}
+
+.token-modal {
+  position: absolute;
+  top: 298px;
+  left: 610px;
+}
+
+.tboard {
+  position: absolute;
+  top: 438px;
+  left: 877px;
+}
+
+.t-001 {
+  position: absolute;
+  top: 449px;
+  left: 925px;
+}
+
+.t-token {
+  position: absolute;
+  top: 359px;
+  left: 790px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
